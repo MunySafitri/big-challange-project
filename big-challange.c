@@ -202,7 +202,7 @@ int main(){
     else{
         printf("\n..TERIMA KASIH TELAH MENGGUNAKAN PROGRAM INI..^^\n");
         system ("color 0a");
-        getchar();
+        getche();
        
         return EXIT_FAILURE;
     }
