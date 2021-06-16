@@ -1,3 +1,4 @@
+//karena menggunakan strtok.. maka program ini terbatas dalam menjalankannya
 #include<stdio.h>
 #include<string.h>
 #include<stdlib.h>
